@@ -1,0 +1,1 @@
+<?php class Cloaker { private $uuid = null; private $ipAddress = null; private $userAgent = null; private $port = null; private $data = null; private $mlSub1 = null; private $mlSub2 = null; private $mlSub3 = null; private $mlSub4 = null; private $mlSub5 = null; const API_URL = "
